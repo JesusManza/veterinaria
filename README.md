@@ -6,3 +6,10 @@
 
 ## acerca del programador
 autor: ronald manza martinez
+mi carrera es: **Ingenieria de software con IA**
+Puedes escribir a mi correo: **ronaldmanza1@gmail.com**
+
+## otras tecnologias
+- java
+- php
+- sql
